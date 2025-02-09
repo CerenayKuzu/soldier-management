@@ -1,0 +1,6 @@
+com\myapp\soldier_management\Main.class
+com\myapp\soldier_management\ConnectionPool.class
+com\myapp\soldier_management\GenericDAO.class
+com\myapp\soldier_management\SoldierDAO.class
+com\myapp\soldier_management\Soldier.class
+com\myapp\soldier_management\XMLValidator.class

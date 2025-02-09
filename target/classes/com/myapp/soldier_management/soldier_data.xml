@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<military_database>
+    <soldiers>
+        <soldier>
+            <soldier_id>1</soldier_id>
+            <first_name>Gabriel</first_name>
+            <last_name>Becker</last_name>
+            <dob>1990-05-15</dob>
+            <rank_id>1</rank_id>
+            <unit_id>1</unit_id>
+            <department_id>1</department_id>
+            <enlistment_date>2010-07-01</enlistment_date>
+        </soldier>
+    </soldiers>
+    
+    <ranks>
+        <rank>
+            <rank_id>1</rank_id>
+            <rank_name>Private</rank_name>
+            <rank_level>1</rank_level>
+        </rank>
+    </ranks>
+    
+    <units>
+        <unit>
+            <unit_id>1</unit_id>
+            <unit_name>1st Infantry</unit_name>
+            <unit_type>Infantry</unit_type>
+            <location>New York</location>
+        </unit>
+    </units>
+    
+    <departments>
+        <department>
+            <department_id>1</department_id>
+            <department_name>Logistics</department_name>
+            <description>Handles supply chain and transportation.</description>
+        </department>
+    </departments>
+    
+    <missions>
+        <mission>
+            <mission_id>1</mission_id>
+            <mission_name>Operation Desert Storm</mission_name>
+            <start_date>1991-01-17</start_date>
+            <end_date>1991-02-28</end_date>
+            <location>Kuwait</location>
+            <objective>Liberate Kuwait from Iraqi forces.</objective>
+        </mission>
+    </missions>
+</military_database>
