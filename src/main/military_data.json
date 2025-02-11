@@ -1,0 +1,37 @@
+{
+    "soldiers": [
+      {
+        "soldier_id": 1,
+        "first_name": "Gabriel",
+        "last_name": "Becker",
+        "dob": "1990-05-15",
+        "rank": {
+          "rank_id": 1,
+          "rank_name": "Private",
+          "rank_level": 1
+        },
+        "unit": {
+          "unit_id": 1,
+          "unit_name": "1st Infantry",
+          "unit_type": "Infantry",
+          "location": "New York"
+        },
+        "department": {
+          "department_id": 1,
+          "department_name": "Logistics",
+          "description": "Handles supply chain and transportation."
+        },
+        "missions": [
+          {
+            "mission_id": 1,
+            "mission_name": "Operation Desert Storm",
+            "start_date": "1991-01-17",
+            "end_date": "1991-02-28",
+            "location": "Kuwait",
+            "objective": "Liberate Kuwait from Iraqi forces."
+          }
+        ]
+      }
+    ]
+  }
+  
